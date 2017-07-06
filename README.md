@@ -1,4 +1,5 @@
-=== Plugin Name ===
+# Tytanium Off Canvas #
+
 Contributors: jontrujillo
 Donate link: https://www.tytaniumideas.com
 Tags: off-canvas, menu, navigation
